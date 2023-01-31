@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "suggestion_for_searches",
+  "info": {
+    "singularName": "suggestion-for-search",
+    "pluralName": "suggestion-for-searches",
+    "displayName": "suggestion for search "
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "searchsuggestion": {
+      "displayName": "searchsuggestion",
+      "type": "component",
+      "repeatable": true,
+      "component": "searchsuggestion.searchsuggestion"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_notes_notes",
+  "info": {
+    "displayName": "Notes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "BeamName": {
+      "type": "string"
+    },
+    "Beamid": {
+      "type": "string"
+    },
+    "Beamtype": {
+      "type": "string"
+    },
+    "NoteContent": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "string"
+    }
+  }
+}

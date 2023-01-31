@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "minibeams",
+  "info": {
+    "singularName": "minibeam",
+    "pluralName": "minibeams",
+    "displayName": "Minibeam",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Desc": {
+      "type": "text"
+    },
+    "Content": {
+      "type": "richtext"
+    },
+    "audiourl": {
+      "type": "string"
+    },
+    "shortDesc": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Trending",
+        "Launchoftheweek",
+        "none"
+      ]
+    }
+  }
+}

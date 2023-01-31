@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_favourites_favourites",
+  "info": {
+    "displayName": "Favourites"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Desc": {
+      "type": "string"
+    },
+    "idofbeam": {
+      "type": "string"
+    },
+    "typeofbeam": {
+      "type": "string"
+    }
+  }
+}

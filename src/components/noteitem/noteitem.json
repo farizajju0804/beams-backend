@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_noteitem_noteitems",
+  "info": {
+    "displayName": "Noteitem"
+  },
+  "options": {},
+  "attributes": {
+    "NoteContent": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "string"
+    }
+  }
+}

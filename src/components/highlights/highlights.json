@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_highlights_highlights",
+  "info": {
+    "displayName": "Highlights"
+  },
+  "options": {},
+  "attributes": {
+    "HighlightedText": {
+      "type": "text"
+    },
+    "BeamName": {
+      "type": "string"
+    },
+    "BeamId": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_searchsuggestion_searchsuggestions",
+  "info": {
+    "displayName": "searchsuggestion"
+  },
+  "options": {},
+  "attributes": {
+    "suggestion": {
+      "type": "string"
+    }
+  }
+}

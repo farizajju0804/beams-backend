@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "microbeams",
+  "info": {
+    "singularName": "microbeam",
+    "pluralName": "microbeams",
+    "displayName": "microbeam",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Trending",
+        "Launchoftheweek",
+        "none"
+      ]
+    }
+  }
+}
