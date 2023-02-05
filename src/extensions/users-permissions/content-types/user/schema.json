@@ -84,6 +84,20 @@
       "type": "component",
       "repeatable": true,
       "component": "highlights.highlights"
+    },
+    "Phone": {
+      "type": "string"
+    },
+    "Profilepic": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }

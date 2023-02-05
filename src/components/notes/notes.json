@@ -16,7 +16,7 @@
       "type": "string"
     },
     "NoteContent": {
-      "type": "string"
+      "type": "text"
     },
     "Date": {
       "type": "string"
