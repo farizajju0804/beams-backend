@@ -98,6 +98,14 @@
         "videos",
         "audios"
       ]
+    },
+    "newuser": {
+      "type": "boolean",
+      "default": true
+    },
+    "firsthighlight": {
+      "type": "boolean",
+      "default": true
     }
   }
 }
