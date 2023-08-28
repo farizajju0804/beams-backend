@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_startup_container_startup_contents",
+  "info": {
+    "displayName": "startupContents"
+  },
+  "options": {},
+  "attributes": {
+    "startupContent": {
+      "type": "string"
+    },
+    "relevanceContent": {
+      "type": "string"
+    }
+  }
+}

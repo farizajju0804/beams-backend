@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_article_components_start_boxes",
+  "info": {
+    "displayName": "StartBox"
+  },
+  "options": {},
+  "attributes": {
+    "startContent": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

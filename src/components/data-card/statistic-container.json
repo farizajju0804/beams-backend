@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_data_card_statistic_containers",
+  "info": {
+    "displayName": "StatisticContainer"
+  },
+  "options": {},
+  "attributes": {
+    "statisticContent": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

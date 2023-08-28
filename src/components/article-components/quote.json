@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_article_components_quotes",
+  "info": {
+    "displayName": "Quote"
+  },
+  "options": {},
+  "attributes": {
+    "quoteContent": {
+      "type": "string"
+    },
+    "personName": {
+      "type": "string"
+    },
+    "bgcolor": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}
