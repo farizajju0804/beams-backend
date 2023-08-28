@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "article_reads",
+  "info": {
+    "singularName": "article-read",
+    "pluralName": "article-reads",
+    "displayName": "articleRead",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "datacard": {
+      "displayName": "dataCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.data-card"
+    },
+    "startupContents1": {
+      "displayName": "startupContents1",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.startup-contents1"
+    },
+    "startupContents2": {
+      "displayName": "startupContents2",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.startup-contents2"
+    },
+    "applicationBoxes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.application-boxes"
+    }
+  }
+}

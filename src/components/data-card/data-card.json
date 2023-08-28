@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_data_card_data_cards",
+  "info": {
+    "displayName": "dataCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "yearData": {
+      "type": "string"
+    },
+    "incidentData": {
+      "type": "string"
+    },
+    "verbData": {
+      "type": "string"
+    },
+    "linkData": {
+      "type": "string"
+    },
+    "organization": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_data_card_startup_contents1s",
+  "info": {
+    "displayName": "startupContents1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "startupContent": {
+      "type": "text"
+    },
+    "relevanceContent": {
+      "type": "text"
+    }
+  }
+}
