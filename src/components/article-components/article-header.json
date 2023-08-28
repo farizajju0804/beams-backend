@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_article_components_article_headers",
+  "info": {
+    "displayName": "ArticleHeader"
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "type": "string"
+    },
+    "articleTitle": {
+      "type": "string"
+    },
+    "introContentBold": {
+      "type": "string"
+    },
+    "introContentNormal": {
+      "type": "string"
+    },
+    "introMainImage": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_data_card_startup_containers",
+  "info": {
+    "displayName": "StartupContainer"
+  },
+  "options": {},
+  "attributes": {
+    "productCategory": {
+      "type": "string"
+    },
+    "startupContainerTitle": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

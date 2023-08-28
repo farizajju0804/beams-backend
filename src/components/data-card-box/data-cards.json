@@ -1,16 +1,9 @@
 {
-  "kind": "collectionType",
-  "collectionName": "beams",
+  "collectionName": "components_data_card_box_data_cards",
   "info": {
-    "singularName": "beam",
-    "pluralName": "beams",
-    "displayName": "dataCard",
-    "description": ""
+    "displayName": "dataCards"
   },
-  "options": {
-    "draftAndPublish": true
-  },
-  "pluginOptions": {},
+  "options": {},
   "attributes": {
     "yearData": {
       "type": "string"
@@ -25,6 +18,12 @@
       "type": "string"
     },
     "organization": {
+      "type": "string"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "textColor": {
       "type": "string"
     }
   }
