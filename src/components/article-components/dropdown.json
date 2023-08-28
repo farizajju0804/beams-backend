@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_article_components_dropdowns",
+  "info": {
+    "displayName": "Dropdown"
+  },
+  "options": {},
+  "attributes": {
+    "dropdownTitle": {
+      "type": "string"
+    },
+    "dropdownContent": {
+      "type": "json"
+    },
+    "dropdownIcon": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

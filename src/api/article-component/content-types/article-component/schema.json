@@ -1,0 +1,69 @@
+{
+  "kind": "collectionType",
+  "collectionName": "article_components",
+  "info": {
+    "singularName": "article-component",
+    "pluralName": "article-components",
+    "displayName": "articleComponent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ArticleHeader": {
+      "displayName": "ArticleHeader",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.article-header"
+    },
+    "SubPara": {
+      "displayName": "SubPara",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.sub-para"
+    },
+    "StatisticContainer": {
+      "displayName": "StatisticContainer",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.statistic-container"
+    },
+    "StartBox": {
+      "displayName": "StartBox",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.start-box"
+    },
+    "DataCardBox": {
+      "displayName": "DataCardBox",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.data-card-box"
+    },
+    "StartupContainer": {
+      "displayName": "StartupContainer",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.startup-container"
+    },
+    "Quote": {
+      "displayName": "Quote",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.quote"
+    },
+    "Applications": {
+      "displayName": "Applications",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.applications"
+    },
+    "Dropdown": {
+      "displayName": "Dropdown",
+      "type": "component",
+      "repeatable": true,
+      "component": "article-components.dropdown"
+    }
+  }
+}

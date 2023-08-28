@@ -34,6 +34,48 @@
       "type": "component",
       "repeatable": true,
       "component": "data-card.application-boxes"
+    },
+    "ArticleHeader": {
+      "displayName": "ArticleHeader",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.article-header"
+    },
+    "SubPara": {
+      "displayName": "SubPara",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.sub-para"
+    },
+    "StatisticContainer": {
+      "displayName": "StatisticContainer",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.statistic-container"
+    },
+    "StartBox": {
+      "displayName": "StartBox",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.start-box"
+    },
+    "StartupContainer": {
+      "displayName": "StartupContainer",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.startup-container"
+    },
+    "Quote": {
+      "displayName": "Quote",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.quote"
+    },
+    "Applications": {
+      "displayName": "Applications",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card.applications"
     }
   }
 }

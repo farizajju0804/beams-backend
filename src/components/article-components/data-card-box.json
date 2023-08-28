@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_article_components_data_card_boxes",
+  "info": {
+    "displayName": "DataCardBox"
+  },
+  "options": {},
+  "attributes": {
+    "dataCards": {
+      "displayName": "dataCards",
+      "type": "component",
+      "repeatable": true,
+      "component": "data-card-box.data-cards"
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}

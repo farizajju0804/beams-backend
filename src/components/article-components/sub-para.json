@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_article_components_sub_paras",
+  "info": {
+    "displayName": "SubPara"
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "subParaImg": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    },
+    "subContent": {
+      "type": "json"
+    }
+  }
+}
