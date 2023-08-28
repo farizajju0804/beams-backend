@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "beams",
+  "info": {
+    "singularName": "beam",
+    "pluralName": "beams",
+    "displayName": "dataCard",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "yearData": {
+      "type": "string"
+    },
+    "incidentData": {
+      "type": "string"
+    },
+    "verbData": {
+      "type": "string"
+    },
+    "linkData": {
+      "type": "string"
+    },
+    "organization": {
+      "type": "string"
+    }
+  }
+}

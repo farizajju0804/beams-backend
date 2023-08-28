@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_data_card_application_boxes",
+  "info": {
+    "displayName": "applicationBoxes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "applicationImg": {
+      "type": "text"
+    },
+    "applicationtitle": {
+      "type": "string"
+    },
+    "outcomeTitle": {
+      "type": "string"
+    },
+    "outcomeContent": {
+      "type": "string"
+    },
+    "textAlign": {
+      "type": "string"
+    },
+    "applicationPoints": {
+      "type": "string"
+    }
+  }
+}
