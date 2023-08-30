@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "launch_of_the_weeks",
+  "info": {
+    "singularName": "launch-of-the-week",
+    "pluralName": "launch-of-the-weeks",
+    "displayName": "launch of the week",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lowTitle": {
+      "type": "string"
+    },
+    "lowDesc": {
+      "type": "text"
+    },
+    "lowCategory": {
+      "type": "string"
+    },
+    "categoryColor": {
+      "type": "string"
+    },
+    "categoryBgColor": {
+      "type": "string"
+    },
+    "lowImg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "articleId": {
+      "type": "string"
+    }
+  }
+}

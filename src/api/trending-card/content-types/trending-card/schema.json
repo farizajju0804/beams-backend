@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trending_cards",
+  "info": {
+    "singularName": "trending-card",
+    "pluralName": "trending-cards",
+    "displayName": "TrendingCard",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "trendingCardTitle": {
+      "type": "string"
+    },
+    "trendingCardCategory": {
+      "type": "string"
+    },
+    "trendingCardCategoryBgColor": {
+      "type": "string"
+    },
+    "trendingCardCategoryColor": {
+      "type": "string"
+    },
+    "trendingCardImg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "articleId": {
+      "type": "string"
+    }
+  }
+}
