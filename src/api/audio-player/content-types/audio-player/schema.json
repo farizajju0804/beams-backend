@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "audio_players",
+  "info": {
+    "singularName": "audio-player",
+    "pluralName": "audio-players",
+    "displayName": "audioPlayer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "audioImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "audioUrl": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "articleId": {
+      "type": "string"
+    }
+  }
+}
