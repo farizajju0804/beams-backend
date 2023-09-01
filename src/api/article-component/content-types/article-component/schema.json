@@ -4,7 +4,8 @@
   "info": {
     "singularName": "article-component",
     "pluralName": "article-components",
-    "displayName": "articleComponent"
+    "displayName": "articleComponent",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -64,6 +65,9 @@
       "type": "component",
       "repeatable": true,
       "component": "article-components.dropdown"
+    },
+    "articleId": {
+      "type": "string"
     }
   }
 }

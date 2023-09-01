@@ -1,7 +1,8 @@
 {
   "collectionName": "components_applications_application_boxes",
   "info": {
-    "displayName": "applicationBoxes"
+    "displayName": "applicationBoxes",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -14,14 +15,14 @@
     "outcomeTitle": {
       "type": "string"
     },
-    "outcomeContent": {
-      "type": "string"
-    },
     "applicationPoints": {
       "type": "json"
     },
     "textAlign": {
       "type": "string"
+    },
+    "outcomeContent": {
+      "type": "json"
     }
   }
 }
