@@ -14,8 +14,8 @@ module.exports = ({ env }) => ({
         // ... any custom nodemailer options
       },
       settings: {
-        defaultFrom: "moha.20fit28@gct.ac.in",
-        defaultReplyTo: "moha.20fit28@gct.ac.in",
+        defaultFrom: "info@beams.world",
+        defaultReplyTo: "info@beams.world",
       },
     },
   },
