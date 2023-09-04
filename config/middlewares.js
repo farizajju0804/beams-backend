@@ -12,7 +12,9 @@ module.exports = [
         "http://localhost:1337",
         "http://localhost:3000",
         "http://example2",
-        "https://king-prawn-app-hq64l.ondigitalocean.app"
+        "https://king-prawn-app-hq64l.ondigitalocean.app",
+        "https://beams-frontend.vercel.app",
+        "https://www.beams.world"
       ],
     },
   },
