@@ -12,7 +12,7 @@ module.exports = [
         "http://localhost:1337",
         "http://localhost:3000",
         "http://example2",
-        "https://squid-app-vph52.ondigitalocean.app"
+        "https://king-prawn-app-hq64l.ondigitalocean.app"
       ],
     },
   },
