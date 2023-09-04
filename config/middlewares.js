@@ -12,6 +12,7 @@ module.exports = [
         "http://localhost:1337",
         "http://localhost:3000",
         "http://example2",
+        ""
       ],
     },
   },
