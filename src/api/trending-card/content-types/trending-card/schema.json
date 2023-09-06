@@ -37,6 +37,9 @@
     },
     "articleId": {
       "type": "string"
+    },
+    "altTitle": {
+      "type": "string"
     }
   }
 }
