@@ -25,6 +25,9 @@
         "Launchoftheweek",
         "none"
       ]
+    },
+    "articleId": {
+      "type": "integer"
     }
   }
 }
