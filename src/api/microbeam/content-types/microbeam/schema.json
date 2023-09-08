@@ -28,6 +28,9 @@
     },
     "articleId": {
       "type": "integer"
+    },
+    "dob": {
+      "type": "date"
     }
   }
 }
