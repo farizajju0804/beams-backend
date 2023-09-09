@@ -1,7 +1,8 @@
 {
   "collectionName": "components_article_components_article_headers",
   "info": {
-    "displayName": "ArticleHeader"
+    "displayName": "ArticleHeader",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -14,14 +15,14 @@
     "introContentBold": {
       "type": "string"
     },
-    "introContentNormal": {
-      "type": "string"
-    },
     "introMainImage": {
       "type": "string"
     },
     "order": {
       "type": "integer"
+    },
+    "introContentNormal": {
+      "type": "json"
     }
   }
 }
