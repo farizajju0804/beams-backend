@@ -32,7 +32,9 @@ module.exports = [
         "http://example2",
         "https://king-prawn-app-hq64l.ondigitalocean.app",
         "https://www.beams.world",
-        "https://beams-frontend.verel.app"
+        "https://seal-app-bewvv.ondigitalocean.app",
+        "https://beams-frontend.verel.app",
+        "https://ad3a7e42.beams-frontend.pages.dev"
 
       ],
     },
