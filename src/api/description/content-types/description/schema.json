@@ -21,18 +21,10 @@
     "time": {
       "type": "string"
     },
-    "articleDescriptionImg": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "articleId": {
+      "type": "string"
+    },
+    "articleDescriptionImg": {
       "type": "string"
     }
   }

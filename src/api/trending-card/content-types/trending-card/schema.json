@@ -24,21 +24,13 @@
     "trendingCardCategoryColor": {
       "type": "string"
     },
-    "trendingCardImg": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "articleId": {
       "type": "string"
     },
     "altTitle": {
+      "type": "string"
+    },
+    "trendingCardImg": {
       "type": "string"
     }
   }

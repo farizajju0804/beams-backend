@@ -15,29 +15,13 @@
     "title": {
       "type": "string"
     },
+    "articleId": {
+      "type": "string"
+    },
     "audioImage": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
+      "type": "string"
     },
     "audioUrl": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
-    "articleId": {
       "type": "string"
     }
   }
