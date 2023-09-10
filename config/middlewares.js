@@ -34,7 +34,7 @@ module.exports = [
         "https://www.beams.world",
         "https://seal-app-bewvv.ondigitalocean.app",
         "https://beams-frontend.verel.app",
-        "https://ad3a7e42.beams-frontend.pages.dev"
+        "https://beams-frontend.pages.dev"
 
       ],
     },
