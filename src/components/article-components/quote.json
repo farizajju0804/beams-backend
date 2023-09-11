@@ -1,12 +1,13 @@
 {
   "collectionName": "components_article_components_quotes",
   "info": {
-    "displayName": "Quote"
+    "displayName": "Quote",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "quoteContent": {
-      "type": "string"
+      "type": "text"
     },
     "personName": {
       "type": "string"
