@@ -7,7 +7,7 @@
   "options": {},
   "attributes": {
     "statisticContent": {
-      "type": "string"
+      "type": "text"
     },
     "order": {
       "type": "integer"
